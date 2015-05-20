@@ -1,0 +1,13 @@
+[
+    {
+    "keys": ["alt+l"],
+    "command": "toggle_setting",
+    "args":
+        {
+            "setting": "line_numbers"
+        }
+    },
+    {"keys": ["alt+t"],"command": "toggle_tabs",},
+    {"keys": ["alt+b"],"command": "toggle_side_bar",},
+    {"keys": ["alt+m"],"command": "toggle_minimap",},
+] 
